@@ -1,0 +1,10 @@
+data:
+  name: mphoi120
+  path: ${env:PWD}/data/mphoi120/mphoi120_ground_truth_labels.json
+  path_zarr: ${env:PWD}/data/mphoi120/mphoi120_derived_features/visual_features
+  path_obb_zarr: ${env:PWD}/data/mphoi120/mphoi120_derived_features/object_keypoints/bbox_corner
+  path_hbb_zarr: ${env:PWD}/data/mphoi120/mphoi120_derived_features/human_bounding_boxes
+  path_hps_zarr: ${env:PWD}/data/mphoi120/mphoi120_derived_features/human_joints
+  cross_validation_test_subject: Subject123 # Subject123, Subject234, Subject456, Subject567
+  scaling_strategy: null  # null or standard
+  downsampling: 3  # 1 = full FPS, 2 = half FPS, ...
