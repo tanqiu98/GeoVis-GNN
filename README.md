@@ -11,7 +11,7 @@ First please create an appropriate environment using conda:
 Please download the necessary data from the link below, and put the 
 downloaded data folder in this current directory (i.e. `./data/...`).
 
-Link: [data](https://drive.google.com/drive/folders/1yfwItIoQrAnbnk5GTjbbfN8Ls8Ybl_hr?usp=sharing).
+Link: [data](https://drive.google.com/drive/folders/1yfwItIoQrAnbnk5GTjbbfN8Ls8Ybl_hr?usp=sharing),
       [MPHOI-120](https://collections.durham.ac.uk/collections/r2rb68xb93b).
 ## Train the Model
 
